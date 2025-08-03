@@ -37,29 +37,6 @@ VigilantEye is an offline, on-device Android application built to detect traffic
 
 ---
 
-📁 PROJECT STRUCTURE
----------------------
-📦 vigilantEye/
-┣ 📁 app/
-┃ ┣ 📁 src/
-┃ ┃ ┣ 📁 main/
-┃ ┃ ┃ ┣ 📁 java/com/ahmad/vigilanteye/
-┃ ┃ ┃ ┃ ┣ MainActivity.kt
-┃ ┃ ┃ ┃ ┣ OverlayView.kt
-┃ ┃ ┃ ┃ ┣ utils/
-┃ ┃ ┃ ┃ ┣ detector/
-┃ ┃ ┃ ┣ 📁 assets/
-┃ ┃ ┃ ┃ ┣ best-foggy.tflite
-┃ ┃ ┃ ┃ ┣ classes.txt
-┃ ┃ ┃ ┣ 📁 res/layout/
-┃ ┃ ┃ ┣ 📁 res/drawable/
-┃ ┃ ┃ ┣ 📁 res/values/
-┃ ┃ ┃ ┗ AndroidManifest.xml
-┣ build.gradle
-┗ settings.gradle.kts
-
----
-
 📊 MODEL PERFORMANCE
 ---------------------
 - Model: YOLOv8n (custom-trained on 1600+ foggy images)
