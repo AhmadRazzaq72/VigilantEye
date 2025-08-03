@@ -111,3 +111,10 @@ This project helped us:
 ------------
 Ahmad Razzaq
 
+---
+Screenshot
+-----------
+![ReportGen.jpg](..%2F8th%20FYP%20Report%2FConference%20Paper%20Data%2FReportGen.jpg)
+![ReportStats.jpg](..%2F8th%20FYP%20Report%2FConference%20Paper%20Data%2FReportStats.jpg)
+![Test1(Light).jpg](..%2F8th%20FYP%20Report%2FConference%20Paper%20Data%2FTest1%28Light%29.jpg)
+![Test2(moderate).jpg](..%2F8th%20FYP%20Report%2FConference%20Paper%20Data%2FTest2%28moderate%29.jpg)
